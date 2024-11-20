@@ -1,0 +1,20 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+class Practice04_01 {
+   Practice04_01() {
+   }
+
+   public static void main(String[] var0) {
+      byte var1 = 1;
+      long var2 = 1234567890L;
+      float var4 = 1.23F;
+      double var5 = 1.2345678;
+      System.out.println(var1);
+      System.out.println(var2);
+      System.out.println(var4);
+      System.out.println(var5);
+      byte var7 = 2;
+      byte var8 = 20;
+      boolean var9 = var8 > var7;
+      System.out.println(var9);
+   }
+}
